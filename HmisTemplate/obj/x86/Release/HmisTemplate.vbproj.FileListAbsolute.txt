@@ -1,0 +1,595 @@
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\HmisTemplate.exe.config
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\HmisTemplate.exe
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\HmisTemplate.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\HmisTemplate.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\DbModule.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\log4net.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\DbConn.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\AntControl.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1Input.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\PISService.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\PISService.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\UILibs.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\UILibs.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\UtilsLibs.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\UtilsLibs.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\HmisTemplate.exe.config
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\HmisTemplate.exe
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\HmisTemplate.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\HmisTemplate.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\DbModule.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\log4net.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\DbConn.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\AntControl.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1Input.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\PISService.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\PISService.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\UILibs.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\UILibs.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\UtilsLibs.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\UtilsLibs.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\DASHBOARD_UTDRS.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\DASHBOARD_UTDRS.xml
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\AntrianTPPRI.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\hmsComboBox.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\hmsTextBox.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\Newtonsoft.Json.dll
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\AntrianTPPRI.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisTemplate\bin\Release\AntrianTPPRI.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.exe.config
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.exe
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\AntrianTPPRI.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\hmsComboBox.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\hmsTextBox.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\Newtonsoft.Json.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\DbModule.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\log4net.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\DbConn.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\AntControl.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\AntrianTPPRI.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\AntrianTPPRI.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1Input.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\DASHBOARD_UTDRS.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\DASHBOARD_UTDRS.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\PISService.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\PISService.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\UILibs.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\UILibs.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\UtilsLibs.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\UtilsLibs.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+D:\BACKUP\HMIS_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.exe.config
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.exe
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\AntrianTPPRI.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\hmsComboBox.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\hmsTextBox.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\Newtonsoft.Json.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\DbModule.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\log4net.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\DbConn.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\AntControl.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\AntrianTPPRI.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\AntrianTPPRI.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1Input.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\DASHBOARD_UTDRS.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\DASHBOARD_UTDRS.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\PISService.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\PISService.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\UILibs.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\UILibs.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\UtilsLibs.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\UtilsLibs.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+D:\BACKUP\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+C:\DATA\CSSD_04_08_2020\HmisTemplate\bin\Release\HmisTemplate.exe.config
+C:\DATA\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+C:\DATA\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+C:\DATA\CSSD_04_08_2020\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\HmisTemplate.exe.config
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\HmisTemplate.exe
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\HmisTemplate.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\HmisTemplate.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\hmsComboBox.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\hmsTextBox.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\Newtonsoft.Json.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\DbModule.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\log4net.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\DbConn.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\AntControl.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\AntrianTPPRI.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\AntrianTPPRI.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1Input.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\DASHBOARD_UTDRS.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\DASHBOARD_UTDRS.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\PISService.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\PISService.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\UILibs.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\UILibs.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\UtilsLibs.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\UtilsLibs.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\HmisTemplate.exe.config
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\HmisTemplate.exe
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\HmisTemplate.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\HmisTemplate.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\hmsComboBox.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\hmsTextBox.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\Newtonsoft.Json.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\DbModule.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\log4net.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\DbConn.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\AntControl.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\AntrianTPPRI.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\AntrianTPPRI.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1Input.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\DASHBOARD_UTDRS.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\DASHBOARD_UTDRS.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\PISService.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\PISService.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\UILibs.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\UILibs.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\UtilsLibs.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\UtilsLibs.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+D:\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.exe.config
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+D:\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.exe
+D:\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.pdb
+D:\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\hmsComboBox.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\hmsTextBox.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\Newtonsoft.Json.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\DbModule.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\log4net.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\DbConn.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\AntControl.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+D:\VB\CSSD\HmisTemplate\bin\Release\AntrianTPPRI.pdb
+D:\VB\CSSD\HmisTemplate\bin\Release\AntrianTPPRI.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1Input.4.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\DASHBOARD_UTDRS.pdb
+D:\VB\CSSD\HmisTemplate\bin\Release\DASHBOARD_UTDRS.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\PISService.pdb
+D:\VB\CSSD\HmisTemplate\bin\Release\PISService.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\UILibs.pdb
+D:\VB\CSSD\HmisTemplate\bin\Release\UILibs.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\UtilsLibs.pdb
+D:\VB\CSSD\HmisTemplate\bin\Release\UtilsLibs.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+D:\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+D:\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.exe.config
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.exe
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.pdb
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\HmisTemplate.xml
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\DbModule.dll
+D:\DEVELOPER\VB\CSSD\HmisTemplate\bin\Release\DbConn.dll
+D:\DEVELOPER\VB\CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\HmisTemplate.exe.config
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.exe
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\HmisTemplate.exe
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\HmisTemplate.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\HmisTemplate.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\DbModule.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\DbConn.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\C1.Win.C1List.4.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\C1.Win.C1Command.4.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\bin\Release\C1.Win.C1List.4.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.vbprojResolveAssemblyReference.cache
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.Resources.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ModControlList.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcControlAdd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmRoleList.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUserAdd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserAdd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.PageUserRoles.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgMenuAdd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modAssignProcToRole.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modProcess.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucMenuConfig.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucProcessAdd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modRoles.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcRolesAdd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcCustomMenu.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.modUsers.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.ucUserAdd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgChangePwd.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgInfo.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.DlgVerifyAccount.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FreezeLogin.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmCustomer.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmLogin.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMain.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmMenuConfig.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmProcess.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmTransCode.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.FrmUsers.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.HMISMenu.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.MainMenu.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcBarang.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcMenuProcess.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.UcPerson.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.vbproj.GenerateResource.Cache
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisTemplate\obj\x86\Release\HmisTemplate.exe.licenses

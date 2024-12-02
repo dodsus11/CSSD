@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{A2AF86B5-BB61-4A2B-A95E-83C2558DEDA3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CSSD_UI</RootNamespace>
+    <AssemblyName>CSSD_UI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\HmisTemplate\bin\Release\</OutputPath>
+    <DocumentationFile>CSSD_UI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\HmisTemplate\bin\Release\</OutputPath>
+    <DocumentationFile>CSSD_UI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1Input.4, Version=4.0.20112.33265, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1Input.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1TrueDBGrid.4, Version=4.0.20112.61226, Culture=neutral, PublicKeyToken=75ae3fb0e2b1e0da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientLibs">
+      <HintPath>..\HmisTemplate\bin\Release\ClientLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="CSSD_SERVICE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CSSD_SERVICE.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="GenCode128">
+      <HintPath>..\HmisTemplate\bin\Release\GenCode128.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\HmisTemplate\bin\Release\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="PanelLibs">
+      <HintPath>..\HmisTemplate\bin\Release\PanelLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="PanelUtils">
+      <HintPath>..\HmisTemplate\bin\Release\PanelUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="RockUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\RockUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="SessionInfo">
+      <HintPath>..\HmisTemplate\bin\Release\SessionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="UILibs">
+      <HintPath>..\HmisTemplate\bin\Release\UILibs.dll</HintPath>
+    </Reference>
+    <Reference Include="UtilsLibs">
+      <HintPath>..\HmisTemplate\bin\Release\UtilsLibs.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dsReport\dsReport.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsReport\dsReport.vb">
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Order\dlgDetailInstrumen.Designer.vb">
+      <DependentUpon>dlgDetailInstrumen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\dlgDetailInstrumen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\dlgLookUpInstrumen.Designer.vb">
+      <DependentUpon>dlgLookUpInstrumen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\dlgLookUpInstrumen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\dlgOrderSterilisasi.Designer.vb">
+      <DependentUpon>dlgOrderSterilisasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\dlgOrderSterilisasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\frmTracingOrderDetail.Designer.vb">
+      <DependentUpon>frmTracingOrderDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\frmTracingOrderDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\frmTracingOrderDetail_Rev.Designer.vb">
+      <DependentUpon>frmTracingOrderDetail_Rev.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\frmTracingOrderDetail_Rev.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\ucDistribusi.Designer.vb">
+      <DependentUpon>ucDistribusi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucDistribusi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucDistribusiDaftar.Designer.vb">
+      <DependentUpon>ucDistribusiDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucDistribusiDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucDistribusiLangsung.Designer.vb">
+      <DependentUpon>ucDistribusiLangsung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucDistribusiLangsung.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucDistribusiLangsungDaftar.Designer.vb">
+      <DependentUpon>ucDistribusiLangsungDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucDistribusiLangsungDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucDistribusiRuangan.Designer.vb">
+      <DependentUpon>ucDistribusiRuangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucDistribusiRuangan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucDistribusiRuanganDaftar.Designer.vb">
+      <DependentUpon>ucDistribusiRuanganDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucDistribusiRuanganDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucGudangInstrumen.Designer.vb">
+      <DependentUpon>ucGudangInstrumen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucGudangInstrumen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucLaporanRekapAlatPerMesin.Designer.vb">
+      <DependentUpon>ucLaporanRekapAlatPerMesin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucLaporanRekapAlatPerMesin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucMonitoringGudangSteril.Designer.vb">
+      <DependentUpon>ucMonitoringGudangSteril.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucMonitoringGudangSteril.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucPencucian.Designer.vb">
+      <DependentUpon>ucPencucian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucPencucian.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucPenerimaanSterilisasiAdd.Designer.vb">
+      <DependentUpon>ucPenerimaanSterilisasiAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucPenerimaanSterilisasiAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucPenerimaanSterilisasiDaftar.Designer.vb">
+      <DependentUpon>ucPenerimaanSterilisasiDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucPenerimaanSterilisasiDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucReorderSterilisasi.Designer.vb">
+      <DependentUpon>ucReorderSterilisasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucReorderSterilisasi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucSettingPacking.Designer.vb">
+      <DependentUpon>ucSettingPacking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucSettingPacking.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucSterilisasi.Designer.vb">
+      <DependentUpon>ucSterilisasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucSterilisasi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucTracingOrder.Designer.vb">
+      <DependentUpon>ucTracingOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucTracingOrder.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucTransferAntarGudang.Designer.vb">
+      <DependentUpon>ucTransferAntarGudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucTransferAntarGudang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order\ucTransferGudangIBS.Designer.vb">
+      <DependentUpon>ucTransferGudangIBS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ucTransferGudangIBS.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\crBuktiDistLangsung.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crBuktiDistLangsung.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crBuktiDistRuangan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crBuktiDistRuangan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crBuktiOrder.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crBuktiOrder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crBuktiTransferAntarGudang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crBuktiTransferAntarGudang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crBuktiTransferGudang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crBuktiTransferGudang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crCeklistAlat.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crCeklistAlat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crCeklistAlatDistribusi.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crCeklistAlatDistribusi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelMesin.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelMesin.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelPetugas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelPetugas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelReuse.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelReuse.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelTracing.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelTracing.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelTracingRepeat.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelTracingRepeat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelTracingRepeat_Rev.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelTracingRepeat_Rev.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelTracingReuse.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelTracingReuse.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLabelTracingReuse_Rev.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLabelTracingReuse_Rev.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLaporanKinerja.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLaporanKinerja.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crReportSetInstrumen.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crReportSetInstrumen.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\FrmCetakLabelMesin.Designer.vb">
+      <DependentUpon>FrmCetakLabelMesin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\FrmCetakLabelMesin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmCetakLabelPetugas.Designer.vb">
+      <DependentUpon>frmCetakLabelPetugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmCetakLabelPetugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmCetakNoReuse.Designer.vb">
+      <DependentUpon>frmCetakNoReuse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmCetakNoReuse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmCetakNoTracing.Designer.vb">
+      <DependentUpon>frmCetakNoTracing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmCetakNoTracing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\FrmPreview.Designer.vb">
+      <DependentUpon>FrmPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\FrmPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ucLaporanKegiatanPetugas.Designer.vb">
+      <DependentUpon>ucLaporanKegiatanPetugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ucLaporanKegiatanPetugas.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\ucLaporanPelayananAlatDenganMesin.Designer.vb">
+      <DependentUpon>ucLaporanPelayananAlatDenganMesin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ucLaporanPelayananAlatDenganMesin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\frmViewMasterDetailInstrumen.Designer.vb">
+      <DependentUpon>frmViewMasterDetailInstrumen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\frmViewMasterDetailInstrumen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup\ucGroupMesinAdd.Designer.vb">
+      <DependentUpon>ucGroupMesinAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucGroupMesinAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucGroupMesinDaftar.Designer.vb">
+      <DependentUpon>ucGroupMesinDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucGroupMesinDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucGudangAdd.Designer.vb">
+      <DependentUpon>ucGudangAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucGudangAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucGudangDaftar.Designer.vb">
+      <DependentUpon>ucGudangDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucGudangDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucInventoryAdd.Designer.vb">
+      <DependentUpon>ucInventoryAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucInventoryAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucInventoryDaftar.Designer.vb">
+      <DependentUpon>ucInventoryDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucInventoryDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucMappingUserGudang.Designer.vb">
+      <DependentUpon>ucMappingUserGudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucMappingUserGudang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucMasterSetInstrumenAdd.Designer.vb">
+      <DependentUpon>ucMasterSetInstrumenAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucMasterSetInstrumenAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucMasterSetInstrumenDaftar.Designer.vb">
+      <DependentUpon>ucMasterSetInstrumenDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucMasterSetInstrumenDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucMesinAdd.Designer.vb">
+      <DependentUpon>ucMesinAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucMesinAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucMesinDaftar.Designer.vb">
+      <DependentUpon>ucMesinDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucMesinDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucSetupMasterInstrumenDaftar.Designer.vb">
+      <DependentUpon>ucSetupMasterInstrumenDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucSetupMasterInstrumenDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucSetupMasterInstrumenAdd.Designer.vb">
+      <DependentUpon>ucSetupMasterInstrumenAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucSetupMasterInstrumenAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucSetupPetugasAdd.Designer.vb">
+      <DependentUpon>ucSetupPetugasAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucSetupPetugasAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucSetupPetugasDaftar.Designer.vb">
+      <DependentUpon>ucSetupPetugasDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucSetupPetugasDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucSetupSatuanAdd.Designer.vb">
+      <DependentUpon>ucSetupSatuanAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucSetupSatuanAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setup\ucSetupSatuanDaftar.Designer.vb">
+      <DependentUpon>ucSetupSatuanDaftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\ucSetupSatuanDaftar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Utils\Helper.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\dlgDetailInstrumen.resx">
+      <DependentUpon>dlgDetailInstrumen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\dlgLookUpInstrumen.resx">
+      <DependentUpon>dlgLookUpInstrumen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\dlgOrderSterilisasi.resx">
+      <DependentUpon>dlgOrderSterilisasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\frmTracingOrderDetail.resx">
+      <DependentUpon>frmTracingOrderDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\frmTracingOrderDetail_Rev.resx">
+      <DependentUpon>frmTracingOrderDetail_Rev.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucDistribusi.resx">
+      <DependentUpon>ucDistribusi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucDistribusiDaftar.resx">
+      <DependentUpon>ucDistribusiDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucDistribusiLangsung.resx">
+      <DependentUpon>ucDistribusiLangsung.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucDistribusiLangsungDaftar.resx">
+      <DependentUpon>ucDistribusiLangsungDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucDistribusiRuangan.resx">
+      <DependentUpon>ucDistribusiRuangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucDistribusiRuanganDaftar.resx">
+      <DependentUpon>ucDistribusiRuanganDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucGudangInstrumen.resx">
+      <DependentUpon>ucGudangInstrumen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucLaporanRekapAlatPerMesin.resx">
+      <DependentUpon>ucLaporanRekapAlatPerMesin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucMonitoringGudangSteril.resx">
+      <DependentUpon>ucMonitoringGudangSteril.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucPencucian.resx">
+      <DependentUpon>ucPencucian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucPenerimaanSterilisasiAdd.resx">
+      <DependentUpon>ucPenerimaanSterilisasiAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucPenerimaanSterilisasiDaftar.resx">
+      <DependentUpon>ucPenerimaanSterilisasiDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucReorderSterilisasi.resx">
+      <DependentUpon>ucReorderSterilisasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucSettingPacking.resx">
+      <DependentUpon>ucSettingPacking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucSterilisasi.resx">
+      <DependentUpon>ucSterilisasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucTracingOrder.resx">
+      <DependentUpon>ucTracingOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucTransferAntarGudang.resx">
+      <DependentUpon>ucTransferAntarGudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ucTransferGudangIBS.resx">
+      <DependentUpon>ucTransferGudangIBS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crBuktiDistLangsung.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crBuktiDistLangsung.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crBuktiDistRuangan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crBuktiDistRuangan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crBuktiOrder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crBuktiOrder.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crBuktiTransferAntarGudang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crBuktiTransferAntarGudang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crBuktiTransferGudang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crBuktiTransferGudang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crCeklistAlat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crCeklistAlat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crCeklistAlatDistribusi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crCeklistAlatDistribusi.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelMesin.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelMesin.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelPetugas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelPetugas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelReuse.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelReuse.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelTracing.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelTracing.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelTracingRepeat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelTracingRepeat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelTracingRepeat_Rev.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelTracingRepeat_Rev.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelTracingReuse.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelTracingReuse.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLabelTracingReuse_Rev.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLabelTracingReuse_Rev.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLaporanKinerja.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLaporanKinerja.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crReportSetInstrumen.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crReportSetInstrumen.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\FrmCetakLabelMesin.resx">
+      <DependentUpon>FrmCetakLabelMesin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmCetakLabelPetugas.resx">
+      <DependentUpon>frmCetakLabelPetugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmCetakNoReuse.resx">
+      <DependentUpon>frmCetakNoReuse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmCetakNoTracing.resx">
+      <DependentUpon>frmCetakNoTracing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\FrmPreview.resx">
+      <DependentUpon>FrmPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ucLaporanKegiatanPetugas.resx">
+      <DependentUpon>ucLaporanKegiatanPetugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ucLaporanPelayananAlatDenganMesin.resx">
+      <DependentUpon>ucLaporanPelayananAlatDenganMesin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\frmViewMasterDetailInstrumen.resx">
+      <DependentUpon>frmViewMasterDetailInstrumen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucGroupMesinAdd.resx">
+      <DependentUpon>ucGroupMesinAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucGroupMesinDaftar.resx">
+      <DependentUpon>ucGroupMesinDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucGudangAdd.resx">
+      <DependentUpon>ucGudangAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucGudangDaftar.resx">
+      <DependentUpon>ucGudangDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucInventoryAdd.resx">
+      <DependentUpon>ucInventoryAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucInventoryDaftar.resx">
+      <DependentUpon>ucInventoryDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucMappingUserGudang.resx">
+      <DependentUpon>ucMappingUserGudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucMasterSetInstrumenAdd.resx">
+      <DependentUpon>ucMasterSetInstrumenAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucMasterSetInstrumenDaftar.resx">
+      <DependentUpon>ucMasterSetInstrumenDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucMesinAdd.resx">
+      <DependentUpon>ucMesinAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucMesinDaftar.resx">
+      <DependentUpon>ucMesinDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucSetupMasterInstrumenDaftar.resx">
+      <DependentUpon>ucSetupMasterInstrumenDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucSetupMasterInstrumenAdd.resx">
+      <DependentUpon>ucSetupMasterInstrumenAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucSetupPetugasAdd.resx">
+      <DependentUpon>ucSetupPetugasAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucSetupPetugasDaftar.resx">
+      <DependentUpon>ucSetupPetugasDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucSetupSatuanAdd.resx">
+      <DependentUpon>ucSetupSatuanAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\ucSetupSatuanDaftar.resx">
+      <DependentUpon>ucSetupSatuanDaftar.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="dsReport\dsReport.xsc">
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </None>
+    <None Include="dsReport\dsReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReport.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="dsReport\dsReport.xss">
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

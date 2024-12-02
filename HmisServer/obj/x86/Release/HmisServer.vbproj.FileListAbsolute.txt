@@ -1,0 +1,719 @@
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\HmisServer.exe.config
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\HmisServer.exe
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\HmisServer.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\HmisServer.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\BIOS_SERVICE.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\BridgeAskesService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\BridgeLIS.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\CSSD_SERVICE.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DashBoardService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DoctorFingerprintService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Finance.Service.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\HMISReportService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\HRD.Service.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\HRDSystem.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Laundry.Service.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\MMGiziServ.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\MMService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\OTSvr.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\PatInService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Pharmacy.Service.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\PharSaleService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\PISService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\ServerLib.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\SirusFolioService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\SirusPatientService.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DbLibs.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Ninject.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\AntControl.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\KernelEngine.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\LoggingLibs.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DbConn.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\UILibs.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\UtilsLibs.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DbModule.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\log4net.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\CMAnimation.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\vtExtender.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\SessionInfo.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\ClientLibs.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1List.4.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\GlassButton.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\MultiColumnComboBox.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\BIOS_SERVICE.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\BIOS_SERVICE.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\BridgeLIS.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\CSSD_SERVICE.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\CSSD_SERVICE.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DashBoardService.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DoctorFingerprintService.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\DoctorFingerprintService.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Laundry.Service.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Laundry.Service.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\MMService.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\MMService.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\OTSvr.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\PatInService.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\PatInService.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Pharmacy.Service.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\Pharmacy.Service.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\PISService.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\PISService.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\SirusFolioService.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\UILibs.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\UILibs.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\UtilsLibs.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\UtilsLibs.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\C1.Win.C1List.4.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.exe
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\HmisServer.exe.config
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\HmisServer.exe
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\HmisServer.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\HmisServer.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\BridgeAskesService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\BridgeLIS.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DashBoardService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Finance.Service.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\HMISReportService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\HRD.Service.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\HRDSystem.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Laundry.Service.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\MMGiziServ.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\MMService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\OTSvr.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\PatInService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\PharSaleService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\PISService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\ServerLib.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\SirusFolioService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\SirusPatientService.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DbLibs.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Ninject.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\AntControl.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\KernelEngine.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\LoggingLibs.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DbConn.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\UILibs.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\UtilsLibs.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DbModule.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\log4net.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\CMAnimation.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\vtExtender.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\SessionInfo.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\ClientLibs.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\GlassButton.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\BridgeLIS.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DashBoardService.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Laundry.Service.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Laundry.Service.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\MMService.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\MMService.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\OTSvr.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\PatInService.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\PatInService.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\PISService.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\PISService.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\SirusFolioService.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\UILibs.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\UILibs.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\UtilsLibs.pdb
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\UtilsLibs.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.exe
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.xml
+D:\BACKUP\CSSD 19_02_2020\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\HmisServer.exe.config
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\HmisServer.exe
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\HmisServer.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\HmisServer.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\BridgeAskesService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\BridgeLIS.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DashBoardService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Finance.Service.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\HMISReportService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\HRD.Service.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\HRDSystem.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Laundry.Service.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\MMGiziServ.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\MMService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\OTSvr.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\PatInService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\PharSaleService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\PISService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\ServerLib.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\SirusFolioService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\SirusPatientService.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DbLibs.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Ninject.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\AntControl.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\KernelEngine.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\LoggingLibs.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DbConn.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\UILibs.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\UtilsLibs.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DbModule.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\log4net.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\CMAnimation.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\vtExtender.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\SessionInfo.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\ClientLibs.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\GlassButton.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\BridgeLIS.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DashBoardService.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Laundry.Service.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Laundry.Service.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\MMService.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\MMService.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\OTSvr.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\PatInService.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\PatInService.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\PISService.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\PISService.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\SirusFolioService.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\UILibs.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\UILibs.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\UtilsLibs.pdb
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\UtilsLibs.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.exe
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.xml
+D:\BACKUP\HMIS_04_08_2020\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\HmisServer.exe.config
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\HmisServer.exe
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\HmisServer.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\HmisServer.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\BridgeAskesService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\BridgeLIS.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DashBoardService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Finance.Service.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\HMISReportService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\HRD.Service.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\HRDSystem.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Laundry.Service.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\MMGiziServ.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\MMService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\OTSvr.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\PatInService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\PharSaleService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\PISService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\ServerLib.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\SirusFolioService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\SirusPatientService.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DbLibs.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Ninject.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\AntControl.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\KernelEngine.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\LoggingLibs.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DbConn.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\UILibs.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\UtilsLibs.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DbModule.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\log4net.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\CMAnimation.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\vtExtender.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\SessionInfo.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\ClientLibs.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\GlassButton.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\BridgeLIS.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DashBoardService.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Laundry.Service.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Laundry.Service.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\MMService.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\MMService.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\OTSvr.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\PatInService.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\PatInService.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\PISService.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\PISService.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\SirusFolioService.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\UILibs.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\UILibs.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\UtilsLibs.pdb
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\UtilsLibs.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.exe
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.xml
+D:\BACKUP\CSSD_04_08_2020\HmisServer\obj\x86\Release\HmisServer.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\HmisServer.exe.config
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\HmisServer.exe
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\HmisServer.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\HmisServer.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\BIOS_SERVICE.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\BridgeAskesService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\BridgeLIS.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\CSSD_SERVICE.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DashBoardService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DoctorFingerprintService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Finance.Service.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\HMISReportService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\HRD.Service.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\HRDSystem.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Laundry.Service.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\MMGiziServ.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\MMService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\OTSvr.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\PatInService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Pharmacy.Service.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\PharSaleService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\PISService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\ServerLib.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\SirusFolioService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\SirusPatientService.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DbLibs.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Ninject.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\AntControl.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\KernelEngine.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\LoggingLibs.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DbConn.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\UILibs.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\UtilsLibs.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DbModule.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\log4net.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\CMAnimation.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\vtExtender.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\SessionInfo.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\ClientLibs.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1List.4.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\GlassButton.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\MultiColumnComboBox.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\BIOS_SERVICE.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\BIOS_SERVICE.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\BridgeLIS.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\CSSD_SERVICE.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\CSSD_SERVICE.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DashBoardService.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DoctorFingerprintService.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\DoctorFingerprintService.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Laundry.Service.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Laundry.Service.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\MMService.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\MMService.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\OTSvr.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\PatInService.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\PatInService.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Pharmacy.Service.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\Pharmacy.Service.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\PISService.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\PISService.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\SirusFolioService.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\UILibs.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\UILibs.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\UtilsLibs.pdb
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\UtilsLibs.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\C1.Win.C1List.4.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.exe
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.xml
+C:\DATA\PROJECT CSSD NEW\PROJECT\HmisServer\obj\x86\Release\HmisServer.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\HmisServer.exe.config
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\HmisServer.exe
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\HmisServer.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\HmisServer.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\BIOS_SERVICE.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\BridgeAskesService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\BridgeLIS.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\CSSD_SERVICE.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DashBoardService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DoctorFingerprintService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Finance.Service.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\HMISReportService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\HRD.Service.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\HRDSystem.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Laundry.Service.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\MMGiziServ.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\MMService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\OTSvr.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\PatInService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Pharmacy.Service.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\PharSaleService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\PISService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\ServerLib.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\SirusFolioService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\SirusPatientService.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DbLibs.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Ninject.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\AntControl.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\KernelEngine.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\LoggingLibs.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DbConn.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\UILibs.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\UtilsLibs.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DbModule.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\log4net.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\CMAnimation.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\vtExtender.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\SessionInfo.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\ClientLibs.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1List.4.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\GlassButton.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\MultiColumnComboBox.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\BIOS_SERVICE.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\BIOS_SERVICE.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\BridgeLIS.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\CSSD_SERVICE.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\CSSD_SERVICE.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DashBoardService.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DoctorFingerprintService.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\DoctorFingerprintService.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Laundry.Service.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Laundry.Service.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\MMService.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\MMService.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\OTSvr.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\PatInService.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\PatInService.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Pharmacy.Service.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\Pharmacy.Service.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\PISService.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\PISService.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\SirusFolioService.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\UILibs.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\UILibs.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\UtilsLibs.pdb
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\UtilsLibs.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\C1.Win.C1List.4.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.exe
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.xml
+C:\DATA\PROJECT CSSD NEW\RELEASE TAHAP 1\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\VB\CSSD\HmisServer\bin\Release\HmisServer.exe.config
+D:\VB\CSSD\HmisServer\bin\Release\HmisServer.exe
+D:\VB\CSSD\HmisServer\bin\Release\HmisServer.pdb
+D:\VB\CSSD\HmisServer\bin\Release\HmisServer.xml
+D:\VB\CSSD\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\VB\CSSD\HmisServer\bin\Release\BridgeAskesService.dll
+D:\VB\CSSD\HmisServer\bin\Release\BridgeLIS.dll
+D:\VB\CSSD\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\VB\CSSD\HmisServer\bin\Release\DashBoardService.dll
+D:\VB\CSSD\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\VB\CSSD\HmisServer\bin\Release\Finance.Service.dll
+D:\VB\CSSD\HmisServer\bin\Release\HMISReportService.dll
+D:\VB\CSSD\HmisServer\bin\Release\HRD.Service.dll
+D:\VB\CSSD\HmisServer\bin\Release\HRDSystem.dll
+D:\VB\CSSD\HmisServer\bin\Release\Laundry.Service.dll
+D:\VB\CSSD\HmisServer\bin\Release\MMGiziServ.dll
+D:\VB\CSSD\HmisServer\bin\Release\MMService.dll
+D:\VB\CSSD\HmisServer\bin\Release\OTSvr.dll
+D:\VB\CSSD\HmisServer\bin\Release\PatInService.dll
+D:\VB\CSSD\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\VB\CSSD\HmisServer\bin\Release\PharSaleService.dll
+D:\VB\CSSD\HmisServer\bin\Release\PISService.dll
+D:\VB\CSSD\HmisServer\bin\Release\ServerLib.dll
+D:\VB\CSSD\HmisServer\bin\Release\SirusFolioService.dll
+D:\VB\CSSD\HmisServer\bin\Release\SirusPatientService.dll
+D:\VB\CSSD\HmisServer\bin\Release\DbLibs.dll
+D:\VB\CSSD\HmisServer\bin\Release\Ninject.dll
+D:\VB\CSSD\HmisServer\bin\Release\AntControl.dll
+D:\VB\CSSD\HmisServer\bin\Release\KernelEngine.dll
+D:\VB\CSSD\HmisServer\bin\Release\LoggingLibs.dll
+D:\VB\CSSD\HmisServer\bin\Release\DbConn.dll
+D:\VB\CSSD\HmisServer\bin\Release\UILibs.dll
+D:\VB\CSSD\HmisServer\bin\Release\UtilsLibs.dll
+D:\VB\CSSD\HmisServer\bin\Release\DbModule.dll
+D:\VB\CSSD\HmisServer\bin\Release\log4net.dll
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\VB\CSSD\HmisServer\bin\Release\CMAnimation.dll
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\VB\CSSD\HmisServer\bin\Release\vtExtender.dll
+D:\VB\CSSD\HmisServer\bin\Release\SessionInfo.dll
+D:\VB\CSSD\HmisServer\bin\Release\ClientLibs.dll
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\VB\CSSD\HmisServer\bin\Release\GlassButton.dll
+D:\VB\CSSD\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\VB\CSSD\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\VB\CSSD\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\VB\CSSD\HmisServer\bin\Release\BridgeLIS.pdb
+D:\VB\CSSD\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\VB\CSSD\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\VB\CSSD\HmisServer\bin\Release\DashBoardService.pdb
+D:\VB\CSSD\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\VB\CSSD\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\VB\CSSD\HmisServer\bin\Release\Laundry.Service.pdb
+D:\VB\CSSD\HmisServer\bin\Release\Laundry.Service.xml
+D:\VB\CSSD\HmisServer\bin\Release\MMService.pdb
+D:\VB\CSSD\HmisServer\bin\Release\MMService.xml
+D:\VB\CSSD\HmisServer\bin\Release\OTSvr.pdb
+D:\VB\CSSD\HmisServer\bin\Release\PatInService.pdb
+D:\VB\CSSD\HmisServer\bin\Release\PatInService.xml
+D:\VB\CSSD\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\VB\CSSD\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\VB\CSSD\HmisServer\bin\Release\PISService.pdb
+D:\VB\CSSD\HmisServer\bin\Release\PISService.xml
+D:\VB\CSSD\HmisServer\bin\Release\SirusFolioService.pdb
+D:\VB\CSSD\HmisServer\bin\Release\UILibs.pdb
+D:\VB\CSSD\HmisServer\bin\Release\UILibs.xml
+D:\VB\CSSD\HmisServer\bin\Release\UtilsLibs.pdb
+D:\VB\CSSD\HmisServer\bin\Release\UtilsLibs.xml
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\VB\CSSD\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\VB\CSSD\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.exe
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.xml
+D:\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\HmisServer.exe.config
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\HmisServer.exe
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\HmisServer.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\HmisServer.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\BridgeAskesService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\BridgeLIS.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DashBoardService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Finance.Service.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\HMISReportService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\HRD.Service.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\HRDSystem.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Laundry.Service.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\MMGiziServ.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\MMService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\OTSvr.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\PatInService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\PharSaleService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\PISService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\ServerLib.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\SirusFolioService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\SirusPatientService.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DbLibs.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Ninject.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\KernelEngine.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\LoggingLibs.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DbConn.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\UILibs.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\UtilsLibs.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\CMAnimation.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\vtExtender.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\SessionInfo.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\ClientLibs.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\BridgeLIS.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DashBoardService.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Laundry.Service.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Laundry.Service.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\MMService.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\MMService.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\OTSvr.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\PatInService.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\PatInService.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\SirusFolioService.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.exe
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.xml
+D:\DEVELOPER\VB\CSSD\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\DbModule.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\GlassButton.dll
+D:\DEVELOPER\VB\CSSD\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\HmisServer.exe.config
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\HmisServer.exe
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\HmisServer.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\HmisServer.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\BridgeAskesService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\BridgeLIS.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DashBoardService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Finance.Service.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\HMISReportService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\HRD.Service.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\HRDSystem.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Laundry.Service.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\MMGiziServ.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\MMService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\OTSvr.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\PatInService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\PharSaleService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\PISService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\ServerLib.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\SirusFolioService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\SirusPatientService.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DbLibs.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Ninject.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\KernelEngine.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\LoggingLibs.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DbConn.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\UILibs.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\UtilsLibs.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DbModule.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\CMAnimation.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\vtExtender.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\SessionInfo.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\ClientLibs.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\GlassButton.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\BridgeLIS.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DashBoardService.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Laundry.Service.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Laundry.Service.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\MMService.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\MMService.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\OTSvr.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\PatInService.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\PatInService.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\SirusFolioService.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.exe
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.xml
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\GARAPAN_KANTOR\PROJECT_CSSD\HmisServer\bin\Release\log4net.dll

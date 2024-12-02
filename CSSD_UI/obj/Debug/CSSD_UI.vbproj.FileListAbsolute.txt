@@ -1,0 +1,199 @@
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.vbprojResolveAssemblyReference.cache
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.Resources.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.dlgDetailInstrumen.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmTracingOrderDetail.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusi.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiLangsung.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiRuangan.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGudangInstrumen.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucLaporanRekapAlatPerMesin.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMonitoringGudangSteril.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucPencucian.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucPenerimaanSterilisasiAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucPenerimaanSterilisasiDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucReorderSterilisasi.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSettingPacking.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSterilisasi.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucTracingOrder.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucTransferAntarGudang.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucTransferGudangIBS.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.FrmCetakLabelMesin.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmCetakLabelPetugas.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmCetakNoTracing.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.FrmPreview.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucLaporanPelayananAlatDenganMesin.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmViewMasterDetailInstrumen.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGroupMesinAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGroupMesinDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGudangAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGudangDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucInventoryAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucInventoryDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMappingUserGudang.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMasterSetInstrumenAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMasterSetInstrumenDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMesinAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMesinDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupMasterInstrumenDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupMasterInstrumenAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupPetugasAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupPetugasDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupSatuanAdd.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupSatuanDaftar.resources
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.vbproj.GenerateResource.Cache
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.dll.licenses
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\CSSD_UI.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\CSSD_UI.pdb
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\CSSD_UI.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\ClientLibs.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\CSSD_SERVICE.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\GenCode128.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\PanelLibs.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\PanelUtils.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\RockUtil.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\SessionInfo.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\UILibs.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\UtilsLibs.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\DbConn.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\Ninject.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\KernelEngine.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\LoggingLibs.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\PISService.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\CMAnimation.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\vtExtender.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1List.4.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\DbModule.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\DbLibs.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\AntControl.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\GlassButton.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\MultiColumnComboBox.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\CSSD_SERVICE.pdb
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\CSSD_SERVICE.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\UILibs.pdb
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\UILibs.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\UtilsLibs.pdb
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\UtilsLibs.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\PISService.pdb
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\PISService.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\bin\Debug\C1.Win.C1List.4.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.dll
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.xml
+D:\BACKUP\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.pdb
+D:\BACKUP\HMIS_05_12_2019\HmisTemplate\bin\Release\CSSD_UI.dll
+D:\BACKUP\HMIS_05_12_2019\HmisTemplate\bin\Release\CSSD_UI.pdb
+D:\BACKUP\HMIS_05_12_2019\HmisTemplate\bin\Release\CSSD_UI.xml
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\HmisTemplate\bin\Release\CSSD_UI.dll
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\HmisTemplate\bin\Release\CSSD_UI.pdb
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\HmisTemplate\bin\Release\CSSD_UI.xml
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.vbprojResolveAssemblyReference.cache
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.Resources.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.dlgDetailInstrumen.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmTracingOrderDetail.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusi.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiLangsung.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiRuangan.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGudangInstrumen.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucLaporanRekapAlatPerMesin.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMonitoringGudangSteril.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucPencucian.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucPenerimaanSterilisasiAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucPenerimaanSterilisasiDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucReorderSterilisasi.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSettingPacking.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSterilisasi.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucTracingOrder.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucTransferAntarGudang.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucTransferGudangIBS.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.FrmCetakLabelMesin.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmCetakLabelPetugas.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmCetakNoTracing.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.FrmPreview.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucLaporanPelayananAlatDenganMesin.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.frmViewMasterDetailInstrumen.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGroupMesinAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGroupMesinDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGudangAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucGudangDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucInventoryAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucInventoryDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMappingUserGudang.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMasterSetInstrumenAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMasterSetInstrumenDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMesinAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucMesinDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupMasterInstrumenDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupMasterInstrumenAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupPetugasAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupPetugasDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupSatuanAdd.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.ucSetupSatuanDaftar.resources
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.vbproj.GenerateResource.Cache
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.dll.licenses
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.dll
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.xml
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.pdb
+D:\BACKUP\CSSD_FINAL_BETA\HMIS_05_12_2019\CSSD_UI\obj\Debug\CSSD_UI.dlgOrderSterilisasi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\CSSD_UI.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\CSSD_UI.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\CSSD_UI.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.vbprojResolveAssemblyReference.cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.Resources.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.dlgDetailInstrumen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.dlgOrderSterilisasi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.frmTracingOrderDetail.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiLangsung.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiRuangan.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucGudangInstrumen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucLaporanRekapAlatPerMesin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucMonitoringGudangSteril.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucPencucian.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucPenerimaanSterilisasiAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucPenerimaanSterilisasiDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucReorderSterilisasi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSettingPacking.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSterilisasi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucTracingOrder.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucTransferAntarGudang.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucTransferGudangIBS.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.FrmCetakLabelMesin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.frmCetakLabelPetugas.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.frmCetakNoTracing.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.FrmPreview.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucLaporanPelayananAlatDenganMesin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.frmViewMasterDetailInstrumen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucGroupMesinAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucGroupMesinDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucGudangAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucGudangDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucInventoryAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucInventoryDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucMappingUserGudang.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucMasterSetInstrumenAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucMasterSetInstrumenDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucMesinAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucMesinDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSetupMasterInstrumenDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSetupMasterInstrumenAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSetupPetugasAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSetupPetugasDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSetupSatuanAdd.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucSetupSatuanDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.vbproj.GenerateResource.Cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.dll.licenses
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiLangsungDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.ucDistribusiRuanganDaftar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.dlgLookUpInstrumen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\CSSD_UI\obj\Debug\CSSD_UI.frmCetakNoReuse.resources
